@@ -1,8 +1,8 @@
 ### Hi there 👋 Call me yiqian or kenji!
 View my webfolio: https://portfolio-gohyiqian.vercel.app/
 
-- 🔭 I’m currently working on an open source project by microsoft - VoTT
-- 🌱 I’m currently using React, Node, TypeScript OOP and ElectronJS
+- 🔭 I’m currently learning serverless.
+- 🌱 I’m currently using React, Node, AWS
 - 📫 Reach me @: +65 9129 5608
 
 <!-- - 👯 I’m looking to collaborate on ...
