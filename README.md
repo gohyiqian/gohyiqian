@@ -1,5 +1,6 @@
 ### Hi there 👋 Call me yiqian or kenji!
 View my webfolio: https://portfolio-gohyiqian.vercel.app/
+Connect with me on Linkedin: https://www.linkedin.com/in/gohyiqian/
 
 - 🔭 I’m currently learning serverless.
 - 🌱 I’m currently using React, Node, AWS
