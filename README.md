@@ -1,12 +1,12 @@
 ### Hi there 👋 
-I am yiqian and I'm passionate about endless learning.
-- My portfolio: https://portfolio-gohyiqian.vercel.app/
-- My humble blog: https://www.gohyiqian.com/
+Thanks for stopping by.
+My portfolio: https://portfolio-gohyiqian.vercel.app/
+My blog: https://www.gohyiqian.com/
 
 Connect with me on Linkedin: https://www.linkedin.com/in/gohyiqian/
 
-- 🔭 I’m currently working on a serverless application.
-- 🌱 I’m currently using React, Redux, Node, AWS, Next, Prisma
+- 🔭 I have worked on serverless application.
+- 🌱 I’m currently using React, Redux, Node, AWS, Next, Prisma, Kafka, Java springboot.
 
 
 <!-- - 👯 I’m looking to collaborate on ...
